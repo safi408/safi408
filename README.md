@@ -14,10 +14,10 @@
 ---
 
 ## 📌 Featured Projects
-- 🏫 **School Management System** — Complete system with students, teachers, attendance & results.
-- 🎓 **Learning Management System (LMS)** — Course creation, quizzes, and certificates.
-- 📦 **Stock & Inventory Management** — Track products, orders, and reports.
-- 🛒 **E-commerce for Surgical Instruments** — Product catalog, order management & inquiries.
+- 🏫 **School Management System** — Complete system with students, teachers, attendance, classes & timetable.
+- 🎓 **Learning Management System (LMS)** — Course creation, students, course categories instructors and enrollments.
+- 📦 **Stock & Inventory Management** — Categories products, purchase sales, and stock reports.
+- 🛒 **E-commerce for Surgical Instruments** — Product categories, order management & inquiries.
 
 ---
 
@@ -29,10 +29,10 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 **Portfolio:** [your-portfolio-link](#)
-- 📧 **Email:** your@email.com
-- 💬 **LinkedIn:** [linkedin.com/in/yourname](#)
-- 🐦 **Twitter/X:** [@yourhandle](#)
+- 📧 **Email:** safirehman311@gmail.com
+- 💬 **LinkedIn:** https://www.linkedin.com/in/safi-rehman-664a28336/
+- 📱 **WhatsApp:** [+92 370 4587980](https://wa.me/923704587980)
+
 
 ---
 
