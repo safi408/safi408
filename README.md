@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Safi — PHP & Laravel Developer  
 
-<!--
-**safi408/safi408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate Laravel Developer crafting robust web applications, backend APIs, and admin dashboards.  
+💼 I build **School Management Systems, LMS, Inventory & Stock Management, and Custom Business Software** for clients.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- **Backend:** PHP, Laravel, Livewire
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript
+- **Database:** MySQL
+- **Tools & Others:** Git, GitHub, Composer, REST API, AJAX
+
+---
+
+## 📌 Featured Projects
+- 🏫 **School Management System** — Complete system with students, teachers, attendance & results.
+- 🎓 **Learning Management System (LMS)** — Course creation, quizzes, and certificates.
+- 📦 **Stock & Inventory Management** — Track products, orders, and reports.
+- 🛒 **E-commerce for Surgical Instruments** — Product catalog, order management & inquiries.
+
+---
+
+## 🌱 Currently Learning
+- Laravel Advanced Features (Queues, Events, Notifications)
+- Tailwind CSS for modern UI
+- API integrations (Payment Gateway, SMS, etc.)
+
+---
+
+## 📫 Connect With Me
+- 💼 **Portfolio:** [your-portfolio-link](#)
+- 📧 **Email:** your@email.com
+- 💬 **LinkedIn:** [linkedin.com/in/yourname](#)
+- 🐦 **Twitter/X:** [@yourhandle](#)
+
+---
+
+> *"Clean Code + Problem Solving = Happy Clients"*  
+
