@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Safi — PHP & Laravel Developer  
+# 👋 Hi, I'm Safi u Rehman — PHP & Laravel Developer  
 
 🚀 Passionate Laravel Developer crafting robust web applications, backend APIs, and admin dashboards.  
 💼 I build **School Management Systems, LMS, Inventory & Stock Management, and Custom Business Software** for clients.
